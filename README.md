@@ -10,8 +10,8 @@
 ## 스터디 진행 방법 / Repository 사용법:
 - [Python Baisc Study - 이정연님 Notion Page](https://www.notion.so/Python-Basic-Study_AI-Robotics-KR-74109cdddabf438da30fb7ba92eba7cd)에 자세한 스터디 진행 방법이 적혀있습니다. Orientation 영상 및 Colab 사용법 영상을 보고 공부를 시작하시는 것을 추천합니다.
 - Lecture_code를 1-5 순서대로 진행하시면서 공부를 진행하시면 됩니다. Lecture code에 사용된 예제는 [Jump to Python](https://wikidocs.net/book/1) 책과 [The Practice of Computing Using Python](http://www.yes24.com/Product/goods/28221152) 책을 사용하였습니다.
-- qna.md에 Slack과 오프라인 렉처에서 진행된 Q&A를 정리해두었습니다.
-
+- (#TODO) qna.md에 Slack과 오프라인 렉처에서 진행된 Q&A를 정리해두었습니다.
+- (#TODO) .ipynb 파일을 colab 환경에서 실행하는 방법을 정리해두었습니다.
 ## 스터디 진도표
 | 스터디 내용                  | 날짜와 시간   |
 |------------------------------|---------------|
