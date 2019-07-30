@@ -42,3 +42,12 @@
 - [김왼손의 왼손코딩 (미운코딩새끼)](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww)
 - [GeeksforGeeks Python Programming Examples](https://www.geeksforgeeks.org/python-programming-examples/)
 - [Getting Started with Python](https://www.python.org/about/gettingstarted/)
+
+## 추후 스터디 계획
+- Numpy / Pandas 스터디
+  - [Numpy 참고자료](https://docs.scipy.org/doc/numpy-1.15.1/user/quickstart.html) 
+  - [Pandas 참고자료 1](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-) 
+  - [Pandas 참고자료 2](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
+- matplotlib (Data Visualisation) 스터디
+  - [matplotlib 참고자료 1](https://towardsdatascience.com/all-your-matplotlib-questions-answered-420dd95cb4ff)
+  - [matplotlib 참고자료 2](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
