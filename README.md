@@ -1,6 +1,6 @@
 # AI Robotics KR - Python Basic 스터디 Repository
 
-![image_link](https://github.com/ai-robotics-kr/python_study/blob/master/python_logo.png?raw=true)
+![image_link](https://github.com/changh95/python_study/blob/master/python_logo.png?raw=true)
 
 ## 스터디 소개:
 - 목적: 이정연님/송진영님의 강의자료를 기반으로 Google Colab 환경에서 Python 기본 문법을 익힙니다.
