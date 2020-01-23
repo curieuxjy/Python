@@ -6,10 +6,8 @@
 
 
 ## 스터디 소개:
-- 목적: 이정연님/송진영님의 강의자료를 기반으로 Google Colab 환경에서 Python 기본 문법을 익힙니다.
-- 기간: 2019년 6월 ~ 2019년 7월
-- 참여자: 이정연/송진영 (강의자료 제작), 장형기 (기획) 
-- 기획 그룹: [AI Robotics KR](https://www.facebook.com/groups/airoboticskr/)
+- 충돌 
+
 
 ## 스터디 진행 방법 / Repository 사용법:
 - [Python Baisc Study - 이정연님 Notion Page](https://www.notion.so/Python-Basic-Study_AI-Robotics-KR-74109cdddabf438da30fb7ba92eba7cd)에 자세한 스터디 진행 방법이 적혀있습니다. Orientation 영상 및 Colab 사용법 영상을 보고 공부를 시작하시는 것을 추천합니다.
