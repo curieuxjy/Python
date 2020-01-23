@@ -2,6 +2,8 @@
 
 ![image_link](https://github.com/changh95/python_study/blob/master/python_logo.png?raw=true)
 
+# 자료 update 중 입니다.
+
 ## 스터디 소개:
 - 목적: 이정연님/송진영님의 강의자료를 기반으로 Google Colab 환경에서 Python 기본 문법을 익힙니다.
 - 기간: 2019년 6월 ~ 2019년 7월
