@@ -20,11 +20,11 @@
 ## 스터디 자료
 | Lecture Code                | 스터디 내용   |
 |------------------------------|---------------|
-| 파이썬 입문 + 데이터 타입(1) | 2019/06/28-30 |
-| 데이터 타입(2)              | 2019/07/02-04 | 
-| Control                    | 2019/07/02-04 |
-| Function                   | 2019/07/06-08 |
-| OOP/Class                  | 2019/07/09-11 |
+| lecture_code1 | 파이썬 입문 + 데이터 타입(1) |
+| lecture_code2  | 데이터 타입(2) | 
+| lecture_code3    | Control  |
+| lecture_code4   | Function |
+| lecture_code5   | OOP/Class |
 
 ## Python 스터디 안내
 
