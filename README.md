@@ -13,12 +13,12 @@
 
   ![book](./images/9.png)
   
-- [.ipynb 파일을 colab 환경에서 실행하는 방법](https://github.com/curieuxjy/python_study/blob/master/how_to_google_colab.md)을 정리해두었습니다.
+- [.ipynb 파일을 colab 환경에서 실행하는 방법](https://github.com/curieuxjy/python_study/blob/master/how_to_google_colab.md)을 정리해두었습니다. Thanks to @changh95
 
 ## 스터디 자료
 | Contents       | Code|
 |--------------|---------|
-| |[Code]()|
+|chapter1_BW1~|[Code](./Effective_python/chapter_1.ipynb)|
 | |[Code]()|
 | |[Code]()|
 | |[Code]()|
