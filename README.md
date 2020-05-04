@@ -32,25 +32,25 @@
 | Contents|Code|Link|
 |:-|-|-|
 |1. 변수는 식별자이고 상태를 관리한다|[Code](./Advanced_python/chapter1.ipynb)|[Link](https://youtu.be/uheYkCTT_28)|
-|2. 모든 값은 객체(object)이다.|[Code](./Advanced_python/chapter2.ipynb)|[Link]()|
+|2. 모든 값은 객체(object)이다.|[Code](./Advanced_python/chapter2.ipynb)|[Link](https://youtu.be/UUOvvKTtFzY)|
 |3. 표현식과 문장을 평가한다.|[Code](./Advanced_python/chapter3.ipynb)|[Link]()|
 |4. 객체를 생성한 클래스가 자료형이다.|[Code](./Advanced_python/chapter4.ipynb)|[Link]()|
-|5. 문장을 꾸미기|[Code](./Advanced_python/chapter_5.ipynb)|[Link]()|
-|6. 문서화 및 주석으로 꾸미기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|7. 할당 및 기타 문장을 처리하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|8. 조건 판단에 따른 문장 선택하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|9. 여러 문장을 묶어 반복 실행하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|10. 여러 조건에 따라 기능을 선택하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|11. 함수를 정의하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|12. 함수 입력데이터를 처리하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|13. 클래스를 정의하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|14. 클래스와 객체 구조 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|15. 특별한 내장 클래스 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|16. 최상위 클래스 object|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|17. 숫자 클래스 모듈 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|18. 문자열 클래스 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|19. 배열 형태의 자료구조 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|20. 색인 검색과 정렬 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
+|5. 문장을 꾸미기|[Code](./Advanced_python/chapter5.ipynb)|[Link]()|
+|6. 문서화 및 주석으로 꾸미기|[Code](./Advanced_python/chapter6.ipynb)|[Link]()|
+|7. 할당 및 기타 문장을 처리하기|[Code](./Advanced_python/chapter7.ipynb)|[Link]()|
+|8. 조건 판단에 따른 문장 선택하기|[Code](./Advanced_python/chapter8.ipynb)|[Link]()|
+|9. 여러 문장을 묶어 반복 실행하기|[Code](./Advanced_python/chapter9.ipynb)|[Link]()|
+|10. 여러 조건에 따라 기능을 선택하기|[Code](./Advanced_python/chapter10.ipynb)|[Link]()|
+|11. 함수를 정의하기|[Code](./Advanced_python/chapter11.ipynb)|[Link]()|
+|12. 함수 입력데이터를 처리하기|[Code](./Advanced_python/chapter12.ipynb)|[Link]()|
+|13. 클래스를 정의하기|[Code](./Advanced_python/chapter13.ipynb)|[Link]()|
+|14. 클래스와 객체 구조 알아보기|[Code](./Advanced_python/chapter14.ipynb)|[Link]()|
+|15. 특별한 내장 클래스 알아보기|[Code](./Advanced_python/chapter15.ipynb)|[Link]()|
+|16. 최상위 클래스 object|[Code](./Advanced_python/chapter16.ipynb)|[Link]()|
+|17. 숫자 클래스 모듈 알아보기|[Code](./Advanced_python/chapter17.ipynb)|[Link]()|
+|18. 문자열 클래스 알아보기|[Code](./Advanced_python/chapter18.ipynb)|[Link]()|
+|19. 배열 형태의 자료구조 알아보기|[Code](./Advanced_python/chapter19.ipynb)|[Link]()|
+|20. 색인 검색과 정렬 알아보기|[Code](./Advanced_python/chapter20.ipynb)|[Link]()|
 |21. 집합(set)과 딕셔너리(dict) 클래스|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
 |22. 컴프리헨션 알아보기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
 |23. 재귀함수 및 합성함수 처리하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
