@@ -15,14 +15,14 @@
 
 - (2020.05.04) 현재 스터디 자료로 보고 있는 책: "한권으로 개발자가 원하던 파이썬 심화 A to Z(문용준, 문성혁 저, 잇플ITPLE(2019))"
 
-<img src="./images/1.1jpg" width="30%" height="30%"></img>
+<img src="./images/1.jpg" width="30%" height="30%"></img>
   
 
 
 ## 파이썬 코딩의 기술
 | Contents|Code|
 |-|-|
-|chapter1_BW1~|[Code](./Effective_python/chapter_1.ipynb)|
+|chapter1_BW1~|[Code](./Effective_python/chapter1.ipynb)|
 | |[Code]()|
 | |[Code]()|
 | |[Code]()|
@@ -31,10 +31,10 @@
 ## 한권으로 개발자가 원하던 파이썬 심화 A to Z
 | Contents|Code|Link|
 |:-|-|-|
-|1. 변수는 식별자이고 상태를 관리한다|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
-|2. 모든 값은 객체(object)이다.|[Code](./Advanced_python/chapter_2.ipynb)|[Link]()|
-|3. 표현식과 문장을 평가한다.|[Code](./Advanced_python/chapter_3.ipynb)|[Link]()|
-|4. 객체를 생성한 클래스가 자료형이다.|[Code](./Advanced_python/chapter_4.ipynb)|[Link]()|
+|1. 변수는 식별자이고 상태를 관리한다|[Code](./Advanced_python/chapter1.ipynb)|[Link](https://youtu.be/uheYkCTT_28)|
+|2. 모든 값은 객체(object)이다.|[Code](./Advanced_python/chapter2.ipynb)|[Link]()|
+|3. 표현식과 문장을 평가한다.|[Code](./Advanced_python/chapter3.ipynb)|[Link]()|
+|4. 객체를 생성한 클래스가 자료형이다.|[Code](./Advanced_python/chapter4.ipynb)|[Link]()|
 |5. 문장을 꾸미기|[Code](./Advanced_python/chapter_5.ipynb)|[Link]()|
 |6. 문서화 및 주석으로 꾸미기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
 |7. 할당 및 기타 문장을 처리하기|[Code](./Advanced_python/chapter_1.ipynb)|[Link]()|
