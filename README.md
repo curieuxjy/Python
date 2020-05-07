@@ -35,8 +35,8 @@
 |2. 모든 값은 객체(object)이다|[Code](./Advanced_python/chapter2.ipynb)|[Link](https://youtu.be/UUOvvKTtFzY)|
 |3. 표현식과 문장을 평가한다|[Code](./Advanced_python/chapter3.ipynb)|[Link](https://youtu.be/ECamQuV0Qw4)|
 |4. 객체를 생성한 클래스가 자료형이다|[Code](./Advanced_python/chapter4.ipynb)|[Link](https://youtu.be/znR05Qy3Kfk)|
-|5. 문장을 꾸미기|[Code](./Advanced_python/chapter5.ipynb)|[Link]()|
-|6. 문서화 및 주석으로 꾸미기|[Code](./Advanced_python/chapter6.ipynb)|[Link]()|
+|5. 문장을 꾸미기|[Code](./Advanced_python/chapter5.ipynb)|[Link](https://youtu.be/0DW3BGcU0ac)|
+|6. 문서화 및 주석으로 꾸미기|[Code](./Advanced_python/chapter6.ipynb)|[Link](https://youtu.be/33FA7jy7XHA)|
 |7. 할당 및 기타 문장을 처리하기|[Code](./Advanced_python/chapter7.ipynb)|[Link]()|
 |8. 조건 판단에 따른 문장 선택하기|[Code](./Advanced_python/chapter8.ipynb)|[Link]()|
 |9. 여러 문장을 묶어 반복 실행하기|[Code](./Advanced_python/chapter9.ipynb)|[Link]()|
