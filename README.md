@@ -79,5 +79,6 @@
 - 공부하면서 자료를 정리하고 있고 현재 특별히 정해진 스터디 형태가 없으니, 편하게 각자 repository를 download 하셔서 python 공부하시면 됩니다.
 - [.ipynb 파일을 colab 환경에서 실행하는 방법](https://github.com/curieuxjy/python_study/blob/master/how_to_google_colab.md)을 정리해두었습니다. Thanks to @changh95
 - [python 자료 참고](https://winterj.me/python-books-for-intermediate/?fbclid=IwAR3NBsUDFNWQ_qNXbAnfm-rQBmdj7dWgt9gBab7DLOG5l4XtNCqbmSss6PY)
+- [제대로 파이썬](https://wikidocs.net/book/2067)
 - 문의가 있으실 경우, curieuxjy@gmail.com 으로 이메일 주시면 감사하겠습니다.
 
