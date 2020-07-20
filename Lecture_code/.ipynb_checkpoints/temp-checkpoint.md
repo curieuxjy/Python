@@ -5,3 +5,9 @@
 * indexing/slicing 확인
 * markdown 설명
 * tip 확인
+
+# 2주차 수업 진도 목표
+* 자료구조 다하기
+* control까지 가능?
+
+# 과제
