@@ -30,5 +30,5 @@ Download the repository using `git clone` or `.zip` file and STUDY!
 
 **Past & Another `REAMD.md`s**
 
-- [Python Basic Study Repository - AI Robotics KR](./assets/readme/README_2019.md)
+- [Python Basic Study Repository - AI Robotics KR](./assets/readme/README_2019.md) → [LINK](https://github.com/ai-robotics-kr/python_study)
 - [How to open `.ipynb` file in Google Colaboratory](./assets/readme/how_to_google_colab.md) - Thanks to [Hyunggi Chang](https://github.com/changh95)
