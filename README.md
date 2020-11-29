@@ -1,8 +1,8 @@
-# Python <img align="right" width="100" height="100" src="./assets/images/python2.png">
+# Python <img align="left" width="30%" height="30%" src="./assets/images/python2.png">
 > Everything [I](https://github.com/curieuxjy) do with Python
 
 <p align="center">
-  <img src="./assets/images/python.png">
+  <img src="./assets/images/python3.png">
 </p>
 
 ### How to use this repository
@@ -13,9 +13,19 @@ Download the repository using `git clone` or `.zip` file and STUDY!
 ## Contents
 |Folder name|brief introduction|book|lecture|project|
 |-----------|------------------|----|-------|-------|
-|Folder name|brief introduction|- [ ]|- [x]|- [ ]|
-|Folder name|brief introduction|- [ ]|- [ ]|- [X]|
-|Folder name|brief introduction|- [ ]|- [ ]|- [ ]|
+|AI_expert_oss|brief introduction| |✔️| |
+|Data_Analysis|brief introduction|✔️| | |
+|Data_preprocessing|brief introduction| | |✔️|
+|Developer_python|brief introduction| |✔️| |
+|Effective_python|brief introduction|✔️| | |
+|Elice_nipa|brief introduction| | |✔️|
+|Flask|brief introduction| |✔️| |
+|Lecture_code|brief introduction|✔️| | |
+|Machine_learning|brief introduction| | |✔️|
+|Open_data_analysis_oss|brief introduction| | |✔️|
+|Pytorch_DL_nyu|brief introduction| | |✔️|
+|Quiz_code|brief introduction| | |✔️|
+|SW_coding_nipa|brief introduction| | |✔️|
 
 **Author**
  : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy))
