@@ -1,8 +1,9 @@
 # Python <img align="left" width="15%" height="15%" src="./assets/images/python2.png">
 > Everything [I](https://github.com/curieuxjy) do with Python
 
-**Author**
- : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy))
+
+<p align="right"> **Author** : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy)) </p>
+
 
 <p align="center">
   <img width="100%" height="100%" src="./assets/images/python4.png">
