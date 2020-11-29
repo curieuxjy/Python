@@ -5,14 +5,14 @@
  : Jungyeon Lee ([curieuxjy](https://github.com/curieuxjy))
 
 <p align="center">
-  <img width="70%" height="70%" src="./assets/images/python3.png">
+  <img width="100%" height="100%" src="./assets/images/python4.png">
 </p>
 
 ### How to use this repository
 Download the repository using `git clone` or `.zip` file and STUDY!
 
 ## Contents
-|Folder name|brief introduction|book|lecture|project|
+|Folder name|Brief introduction & Hash tag|book|lecture|project|
 |-----------|------------------|----|-------|-------|
 |AI_expert_oss|brief introduction| |✔️| |
 |Data_Analysis|brief introduction|✔️| | |
