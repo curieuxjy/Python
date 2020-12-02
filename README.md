@@ -27,6 +27,7 @@ Download the repository using `git clone` or `.zip` file and STUDY!
 |[Pytorch_DL_nyu](./Pytorch_DL_nyu/README.md)|Pythorch/Deep learning/NYU| |✔️| |
 |[SW_coding_nipa](./SW_coding_nipa/README.md)|Software coding 교육/NIPA| |✔️| |
 |[RL_udemy](./RL_udemy/README.md)|Reinforcement Learning/Pytorch/TF/Udemy| |✔️| |
+|[DL_from_scratch_3](./DL_from_scratch_3/README.md)|Deep Learning/Framework|✔️|| |
 
 **Past & Another `REAMD.md`s**
 
