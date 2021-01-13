@@ -1,0 +1,1001 @@
+python score,ids,writing score,lunch,race/ethnicity,gender,reading score,parental level of education,math score,test preparation course
+89,'6480',74,standard,group B,female,72,bachelor's degree,72,none
+70,'7374',88,standard,group C,female,90,some college,69,completed
+78,'1160',93,standard,group B,female,95,master's degree,90,none
+90,'3404',44,free/reduced,group A,male,57,associate's degree,47,none
+99,'9819',75,standard,group C,male,78,some college,76,none
+80,'5713',78,standard,group B,female,83,associate's degree,71,none
+82,'7028',92,standard,group B,female,95,some college,88,completed
+87,'6800',39,free/reduced,group B,male,43,some college,40,none
+80,'6331',67,free/reduced,group D,male,64,high school,64,completed
+89,'5158',50,free/reduced,group B,female,60,high school,38,none
+72,'0798',52,standard,group C,male,54,associate's degree,58,none
+78,'2842',43,standard,group D,male,52,associate's degree,40,none
+74,'4825',73,standard,group B,female,81,high school,65,none
+88,'7416',70,standard,group A,male,72,some college,78,completed
+81,'5729',58,standard,group A,female,53,master's degree,50,none
+91,'4966',78,standard,group C,female,75,some high school,69,none
+99,'9930',86,standard,group C,male,89,high school,88,none
+85,'3083',28,free/reduced,group B,female,32,some high school,18,none
+74,'5746',46,free/reduced,group C,male,42,master's degree,46,completed
+76,'0891',61,free/reduced,group C,female,58,associate's degree,54,none
+93,'0729',63,standard,group D,male,69,high school,66,none
+87,'9135',70,free/reduced,group B,female,75,some college,65,completed
+76,'0141',53,standard,group D,male,54,some college,44,none
+91,'2457',73,standard,group C,female,73,some high school,69,none
+82,'8897',80,free/reduced,group D,male,71,bachelor's degree,74,completed
+92,'0815',72,free/reduced,group A,male,74,master's degree,73,none
+98,'2064',55,standard,group B,male,54,some college,69,none
+92,'3203',75,standard,group C,female,69,bachelor's degree,67,none
+93,'5484',65,standard,group C,male,70,high school,70,none
+92,'4468',75,standard,group D,female,70,master's degree,62,none
+96,'4856',74,standard,group D,female,74,some college,69,none
+80,'7797',61,standard,group B,female,65,some college,63,none
+86,'0897',65,free/reduced,group E,female,72,master's degree,56,none
+89,'4953',38,standard,group D,male,42,some college,40,none
+90,'3817',82,standard,group E,male,87,some college,97,none
+98,'0464',79,standard,group E,male,81,associate's degree,81,completed
+73,'3690',83,standard,group D,female,81,associate's degree,74,none
+83,'9208',59,free/reduced,group D,female,64,some high school,50,none
+90,'0166',88,free/reduced,group D,female,90,associate's degree,75,completed
+83,'3943',57,free/reduced,group B,male,56,associate's degree,57,none
+90,'6655',54,free/reduced,group C,male,61,associate's degree,55,none
+85,'6413',68,standard,group C,female,73,associate's degree,58,none
+71,'3401',65,standard,group B,female,58,associate's degree,53,none
+75,'9616',66,free/reduced,group B,male,65,some college,59,completed
+85,'0204',54,free/reduced,group E,female,56,associate's degree,50,none
+90,'7757',57,standard,group B,male,54,associate's degree,65,none
+85,'9645',62,standard,group A,female,65,associate's degree,55,completed
+96,'6574',76,standard,group C,female,71,high school,66,none
+72,'4314',76,free/reduced,group D,female,74,associate's degree,57,completed
+99,'4261',82,standard,group C,male,84,high school,82,completed
+78,'8997',48,standard,group E,male,55,some college,53,none
+82,'0320',68,free/reduced,group E,male,69,associate's degree,77,completed
+83,'5425',42,standard,group C,male,44,some college,53,none
+88,'0042',75,standard,group D,male,78,high school,88,none
+83,'4546',87,free/reduced,group C,female,84,some high school,71,completed
+88,'3647',43,free/reduced,group C,female,41,high school,33,none
+95,'8097',86,standard,group E,female,85,associate's degree,82,completed
+87,'2062',49,standard,group D,male,55,associate's degree,52,none
+74,'9938',58,standard,group D,male,59,some college,58,completed
+77,'1214',10,free/reduced,group C,female,17,some high school,0,none
+72,'5596',72,free/reduced,group E,male,74,bachelor's degree,79,completed
+84,'9471',34,free/reduced,group A,male,39,some high school,39,none
+83,'8094',55,free/reduced,group A,male,61,associate's degree,62,none
+86,'1602',71,standard,group C,female,80,associate's degree,69,none
+89,'8666',59,standard,group D,female,58,some high school,59,none
+89,'4750',61,standard,group B,male,64,some high school,67,none
+75,'4927',37,free/reduced,group D,male,37,some high school,45,none
+76,'9352',74,standard,group C,female,72,some college,60,none
+72,'6563',56,free/reduced,group B,male,58,associate's degree,61,none
+71,'3262',57,standard,group C,female,64,associate's degree,39,none
+94,'6840',73,free/reduced,group D,female,63,some college,58,completed
+75,'7248',63,standard,group D,male,55,some college,63,completed
+92,'1758',48,free/reduced,group A,female,51,associate's degree,41,none
+78,'9067',56,free/reduced,group C,male,57,some high school,61,none
+91,'2844',41,standard,group C,male,49,some high school,49,none
+89,'9361',38,free/reduced,group B,male,41,associate's degree,44,none
+84,'2449',22,standard,group E,male,26,some high school,30,none
+97,'2515',81,standard,group A,male,78,bachelor's degree,80,completed
+85,'5044',72,standard,group D,female,74,some high school,61,completed
+73,'6934',68,standard,group E,female,68,master's degree,62,none
+72,'9219',50,standard,group B,female,49,associate's degree,47,none
+85,'7429',45,free/reduced,group B,male,45,high school,49,none
+80,'5810',54,free/reduced,group A,male,47,some college,50,completed
+78,'5387',63,standard,group E,male,64,associate's degree,72,none
+73,'7786',34,free/reduced,group D,male,39,high school,42,none
+73,'6270',82,standard,group C,female,80,some college,73,none
+73,'3618',88,free/reduced,group C,female,83,some college,76,none
+99,'0267',74,standard,group D,female,71,associate's degree,71,none
+82,'0747',67,standard,group A,female,70,some college,58,none
+81,'7172',82,standard,group D,female,86,some high school,73,none
+81,'5295',74,standard,group C,female,72,bachelor's degree,65,none
+85,'2223',36,free/reduced,group C,male,34,high school,27,none
+76,'8167',71,standard,group C,male,79,high school,71,none
+81,'5915',50,free/reduced,group C,male,45,associate's degree,43,completed
+85,'2654',92,standard,group B,female,86,some college,79,none
+98,'0279',82,free/reduced,group C,male,81,associate's degree,78,completed
+90,'2019',62,standard,group B,male,66,some high school,65,completed
+99,'6635',70,standard,group E,female,72,some college,63,completed
+72,'5907',62,free/reduced,group D,female,67,some college,58,none
+94,'3443',62,standard,group D,female,67,bachelor's degree,65,none
+71,'6756',67,standard,group B,male,67,some college,79,none
+98,'9986',74,standard,group D,male,74,bachelor's degree,68,completed
+79,'7947',89,standard,group D,female,91,associate's degree,85,none
+99,'5757',47,standard,group B,male,44,high school,60,completed
+97,'4564',90,standard,group C,male,86,some college,98,completed
+70,'8286',72,standard,group C,female,67,some college,58,none
+72,'7785',100,standard,group D,female,100,master's degree,87,none
+70,'2863',64,standard,group E,male,63,associate's degree,66,completed
+72,'6838',70,free/reduced,group B,female,76,associate's degree,52,none
+97,'7487',72,standard,group B,female,64,some high school,70,none
+78,'4090',98,free/reduced,group D,female,89,associate's degree,77,completed
+80,'3810',49,standard,group C,male,55,high school,62,none
+88,'3277',47,standard,group A,male,53,associate's degree,54,none
+83,'8044',54,standard,group D,female,58,some college,51,none
+95,'4604',100,standard,group E,female,100,bachelor's degree,99,completed
+93,'2923',74,standard,group C,male,77,high school,84,none
+92,'4701',82,free/reduced,group B,female,85,bachelor's degree,75,none
+96,'9435',79,standard,group D,female,82,bachelor's degree,78,none
+70,'7085',61,standard,group D,female,63,some high school,51,none
+80,'4134',65,standard,group C,female,69,some college,55,none
+83,'9905',89,standard,group C,female,92,bachelor's degree,79,completed
+94,'8756',92,standard,group B,male,89,associate's degree,91,completed
+73,'0002',93,standard,group C,female,93,some college,88,completed
+72,'9452',56,free/reduced,group D,male,57,high school,63,none
+76,'4167',73,standard,group E,male,80,some college,83,none
+72,'6336',86,standard,group B,female,95,high school,87,none
+82,'6225',67,standard,group B,male,68,some high school,72,none
+93,'8043',74,standard,group D,male,77,some college,65,completed
+86,'3807',74,standard,group D,male,82,master's degree,82,none
+75,'8603',51,standard,group A,female,49,bachelor's degree,51,none
+81,'0244',82,standard,group D,male,84,master's degree,89,none
+93,'7718',40,free/reduced,group C,male,37,some high school,53,completed
+95,'7602',70,free/reduced,group E,male,74,some college,87,completed
+80,'1144',84,standard,group C,female,81,some college,75,completed
+78,'7883',75,free/reduced,group D,male,79,bachelor's degree,74,completed
+93,'5635',48,standard,group C,male,55,bachelor's degree,58,none
+80,'1913',41,standard,group B,male,54,some high school,51,completed
+89,'4682',56,standard,group E,male,55,high school,70,none
+74,'0400',67,standard,group C,female,66,associate's degree,59,none
+82,'4229',69,standard,group D,male,61,some college,71,completed
+71,'7066',71,standard,group D,female,72,some high school,76,none
+79,'7068',64,free/reduced,group C,female,62,some college,59,none
+98,'0120',54,free/reduced,group E,female,55,some college,42,completed
+79,'8476',47,standard,group A,male,43,high school,57,none
+96,'9213',78,standard,group D,male,73,some college,88,none
+74,'2763',33,free/reduced,group C,female,39,some college,22,none
+91,'7677',75,standard,group B,male,84,some high school,88,none
+77,'2870',66,free/reduced,group C,male,68,associate's degree,73,none
+95,'4042',81,standard,group D,female,75,bachelor's degree,68,completed
+77,'3799',93,free/reduced,group E,male,100,associate's degree,100,completed
+93,'1278',69,standard,group A,male,67,some high school,62,completed
+88,'9622',68,standard,group A,male,67,bachelor's degree,77,none
+93,'5266',66,standard,group B,female,70,associate's degree,59,completed
+80,'5316',47,standard,group D,male,49,bachelor's degree,54,none
+87,'7764',61,standard,group D,male,67,some high school,62,none
+82,'5584',88,standard,group C,female,89,some college,70,completed
+80,'5045',78,free/reduced,group E,female,74,high school,66,completed
+75,'3052',60,free/reduced,group B,male,60,some college,60,none
+87,'6605',87,standard,group B,female,86,associate's degree,61,completed
+92,'5080',64,free/reduced,group D,male,62,associate's degree,66,none
+76,'2408',74,free/reduced,group B,male,78,associate's degree,82,completed
+88,'9249',85,free/reduced,group E,female,88,some college,75,completed
+85,'5701',52,free/reduced,group B,male,53,master's degree,49,none
+85,'2616',49,standard,group C,male,53,high school,52,none
+78,'3632',91,standard,group E,female,92,master's degree,81,none
+93,'6743',100,standard,group C,female,100,bachelor's degree,96,completed
+90,'5770',51,free/reduced,group C,male,51,high school,53,completed
+93,'1059',78,free/reduced,group B,female,76,master's degree,58,completed
+78,'3968',78,standard,group B,female,83,high school,68,completed
+75,'9010',70,free/reduced,group C,female,75,some college,67,completed
+77,'9619',74,standard,group A,male,73,high school,72,completed
+83,'1940',78,standard,group E,male,88,some high school,94,none
+97,'1357',81,standard,group D,female,86,some college,79,none
+96,'3784',70,standard,group C,female,67,associate's degree,63,none
+87,'4007',54,free/reduced,group C,female,51,bachelor's degree,43,completed
+81,'2159',87,standard,group C,female,91,master's degree,81,completed
+82,'5253',58,free/reduced,group B,female,54,high school,46,completed
+73,'8783',77,standard,group C,female,77,associate's degree,71,completed
+94,'5807',62,free/reduced,group B,female,70,master's degree,52,completed
+92,'8595',100,standard,group D,female,100,some high school,97,completed
+93,'8154',75,free/reduced,group C,male,68,master's degree,62,completed
+71,'6067',66,free/reduced,group C,female,64,some college,46,none
+79,'8922',47,standard,group E,female,50,high school,50,none
+93,'9026',70,standard,group D,female,69,associate's degree,65,none
+76,'5028',49,free/reduced,group C,male,52,some high school,45,completed
+70,'9898',65,free/reduced,group C,male,67,associate's degree,65,completed
+78,'0366',65,standard,group E,male,76,high school,80,none
+95,'8028',68,standard,group D,male,66,some high school,62,completed
+98,'7218',45,free/reduced,group B,male,52,some high school,48,none
+86,'1129',87,standard,group C,female,88,bachelor's degree,77,none
+92,'6363',69,standard,group E,female,65,associate's degree,66,none
+86,'1014',79,standard,group D,male,83,some college,76,completed
+96,'4366',66,standard,group B,female,64,some high school,62,none
+84,'0657',62,standard,group D,male,62,some college,77,completed
+85,'8623',85,standard,group C,female,84,master's degree,69,completed
+84,'0082',52,standard,group D,male,55,associate's degree,61,none
+78,'4183',65,free/reduced,group C,male,69,some high school,59,completed
+99,'8438',51,free/reduced,group E,male,56,high school,55,none
+82,'1716',55,free/reduced,group B,female,53,some college,45,none
+74,'3691',76,free/reduced,group B,female,79,bachelor's degree,78,none
+96,'8254',86,standard,group C,female,84,associate's degree,67,completed
+93,'4340',77,free/reduced,group D,female,81,some college,65,none
+73,'7976',69,standard,group C,male,77,associate's degree,69,none
+97,'1531',68,standard,group B,female,69,associate's degree,57,none
+79,'7208',42,standard,group C,male,41,some college,59,none
+92,'6859',78,standard,group D,male,71,some high school,74,completed
+89,'6769',62,standard,group E,male,62,bachelor's degree,82,none
+94,'3565',76,standard,group E,male,80,high school,81,completed
+70,'1417',76,free/reduced,group B,female,81,some college,74,none
+88,'6065',66,free/reduced,group B,female,61,some college,58,none
+86,'9615',79,free/reduced,group D,male,79,some high school,80,completed
+93,'1450',27,free/reduced,group C,male,28,some college,35,none
+90,'6659',60,free/reduced,group C,female,62,high school,42,none
+80,'4814',56,free/reduced,group C,male,51,associate's degree,60,completed
+98,'6201',81,standard,group E,male,91,high school,87,completed
+85,'0201',75,standard,group B,male,83,some high school,84,completed
+99,'1495',88,free/reduced,group E,female,86,associate's degree,83,completed
+95,'7741',39,free/reduced,group C,female,42,high school,34,none
+80,'7603',70,free/reduced,group B,male,77,high school,66,none
+79,'5930',56,standard,group B,male,56,some high school,61,completed
+71,'4195',74,standard,group D,female,68,high school,56,completed
+73,'8515',73,standard,group B,male,85,associate's degree,87,none
+83,'2239',62,free/reduced,group C,female,65,some high school,55,none
+83,'0013',75,standard,group D,male,80,some high school,86,none
+88,'1494',73,standard,group B,female,66,associate's degree,52,completed
+91,'5093',54,free/reduced,group E,female,56,master's degree,45,none
+86,'7321',71,standard,group C,female,72,some college,72,none
+98,'7981',54,standard,group D,male,50,high school,57,none
+77,'8380',64,free/reduced,group A,male,72,some high school,68,none
+70,'9864',94,standard,group C,female,95,some college,88,completed
+93,'9701',66,standard,group D,male,64,some college,76,none
+97,'9823',42,standard,group C,male,43,associate's degree,46,none
+78,'7003',83,standard,group B,female,86,bachelor's degree,67,none
+94,'3838',78,standard,group E,male,87,some high school,92,none
+79,'7747',84,standard,group C,male,82,bachelor's degree,83,completed
+93,'8470',77,standard,group D,male,75,associate's degree,80,none
+76,'3416',67,free/reduced,group D,male,66,bachelor's degree,63,none
+92,'7346',74,standard,group D,female,60,some high school,64,completed
+98,'3563',51,standard,group B,male,52,some college,54,none
+70,'9667',80,standard,group C,male,80,associate's degree,84,none
+88,'7521',66,free/reduced,group D,male,68,high school,73,completed
+70,'1869',83,standard,group E,female,83,bachelor's degree,80,none
+85,'3834',55,standard,group D,female,52,high school,56,none
+90,'3824',43,standard,group E,male,51,some college,59,none
+99,'6821',69,standard,group D,male,74,some high school,75,none
+73,'8748',71,standard,group C,male,76,associate's degree,85,none
+79,'2502',74,standard,group E,male,76,associate's degree,89,none
+90,'7615',68,standard,group B,female,70,high school,58,completed
+91,'9005',62,standard,group B,female,64,high school,65,none
+72,'6179',53,standard,group C,male,60,high school,68,none
+79,'1903',49,standard,group A,male,49,some high school,47,completed
+81,'2001',83,free/reduced,group D,female,83,some college,71,none
+95,'6736',70,standard,group B,female,70,some high school,60,completed
+77,'4450',72,standard,group D,male,80,master's degree,80,none
+81,'5564',52,standard,group D,male,52,high school,54,none
+97,'6443',70,standard,group E,female,73,some college,62,none
+90,'8901',68,free/reduced,group C,female,73,associate's degree,64,none
+79,'1641',77,standard,group C,male,77,associate's degree,78,completed
+82,'2000',78,standard,group B,female,75,some college,70,none
+81,'1432',81,free/reduced,group C,female,81,master's degree,65,completed
+92,'2016',77,free/reduced,group C,female,79,some high school,64,completed
+76,'5492',78,standard,group C,male,79,some college,79,completed
+77,'3116',51,free/reduced,group C,female,50,some high school,44,none
+84,'4180',90,standard,group E,female,93,high school,99,none
+74,'7441',68,standard,group D,male,73,high school,76,none
+97,'3548',41,free/reduced,group D,male,42,some high school,59,none
+74,'0679',81,standard,group C,female,75,bachelor's degree,63,none
+73,'0332',77,standard,group D,female,72,high school,69,none
+97,'5191',95,standard,group D,female,92,associate's degree,88,completed
+80,'9718',70,free/reduced,group E,female,76,some college,71,none
+80,'4959',61,standard,group C,male,63,bachelor's degree,69,none
+95,'2503',42,standard,group C,male,49,some college,58,none
+88,'7297',58,free/reduced,group D,female,53,associate's degree,47,none
+96,'9891',71,standard,group D,female,70,some college,65,none
+96,'4008',76,standard,group B,male,85,some college,88,completed
+88,'9364',73,standard,group C,male,78,bachelor's degree,83,none
+91,'2518',93,standard,group C,female,92,some high school,85,completed
+77,'5781',75,standard,group E,female,63,high school,59,completed
+74,'7987',80,free/reduced,group C,female,86,some high school,65,none
+99,'5721',57,free/reduced,group B,male,56,bachelor's degree,73,none
+98,'4557',42,standard,group D,male,52,high school,53,none
+82,'7679',46,standard,group D,male,48,high school,45,none
+91,'6813',84,free/reduced,group D,female,79,bachelor's degree,73,none
+89,'9210',78,free/reduced,group D,female,78,some college,70,completed
+96,'8305',46,standard,group B,female,46,some high school,37,none
+90,'9190',82,standard,group B,male,82,associate's degree,81,completed
+96,'8302',88,standard,group E,male,82,associate's degree,97,completed
+76,'9993',82,standard,group B,female,89,some high school,67,none
+72,'2009',76,free/reduced,group B,male,75,bachelor's degree,88,none
+86,'3061',77,standard,group E,male,76,some high school,77,completed
+95,'8066',68,standard,group C,male,70,associate's degree,76,none
+95,'4782',70,standard,group D,male,73,some high school,86,none
+81,'2532',57,standard,group C,male,60,some high school,63,completed
+99,'3986',75,standard,group E,female,73,bachelor's degree,65,none
+88,'1657',80,free/reduced,group D,male,77,high school,78,completed
+99,'3682',60,free/reduced,group B,male,62,associate's degree,67,none
+92,'9525',43,standard,group A,male,41,some high school,46,completed
+81,'8418',68,standard,group E,male,74,associate's degree,71,completed
+93,'2170',50,free/reduced,group C,male,46,high school,40,completed
+95,'1599',75,free/reduced,group D,male,87,associate's degree,90,none
+84,'6246',81,free/reduced,group A,male,78,some college,81,completed
+99,'0626',52,free/reduced,group D,male,54,some high school,56,none
+78,'7379',81,standard,group C,female,84,associate's degree,67,completed
+87,'6351',64,standard,group B,male,76,associate's degree,80,none
+94,'6640',83,standard,group C,female,75,associate's degree,74,completed
+71,'7499',69,standard,group A,male,67,some college,69,none
+95,'6436',81,standard,group E,male,87,some college,99,completed
+87,'6808',44,standard,group C,male,52,some high school,51,none
+73,'9777',67,free/reduced,group B,female,71,associate's degree,53,none
+84,'8592',52,free/reduced,group D,female,57,high school,49,none
+81,'1316',80,standard,group B,female,76,associate's degree,73,none
+95,'5020',57,standard,group B,male,60,bachelor's degree,66,none
+80,'7047',68,standard,group D,male,61,bachelor's degree,67,completed
+70,'5001',69,free/reduced,group C,female,67,associate's degree,68,completed
+97,'7909',75,standard,group C,female,64,bachelor's degree,59,completed
+78,'9441',65,standard,group C,male,66,high school,71,none
+91,'7425',91,standard,group D,female,82,master's degree,77,completed
+82,'1360',78,standard,group C,male,72,associate's degree,83,none
+71,'7263',69,standard,group B,male,71,bachelor's degree,63,none
+74,'5206',63,free/reduced,group D,female,65,associate's degree,56,none
+99,'1668',84,free/reduced,group C,female,79,high school,67,completed
+91,'7550',79,standard,group E,female,86,high school,75,none
+77,'9903',80,standard,group C,female,81,some college,71,none
+85,'6906',53,free/reduced,group C,female,53,some high school,43,none
+95,'0476',43,free/reduced,group C,female,46,high school,41,none
+89,'2985',94,standard,group C,female,90,some college,82,none
+92,'4188',62,standard,group C,male,61,some college,61,none
+99,'1430',19,free/reduced,group A,male,23,some college,28,none
+80,'7463',77,standard,group C,male,75,associate's degree,82,completed
+98,'7070',51,standard,group B,female,55,some high school,41,none
+78,'3704',61,standard,group C,male,60,high school,71,none
+74,'4369',35,standard,group C,male,37,associate's degree,47,none
+90,'1776',53,standard,group E,male,56,associate's degree,62,completed
+88,'5696',81,standard,group B,male,78,associate's degree,90,none
+70,'4139',95,standard,group C,female,93,bachelor's degree,83,none
+78,'8223',66,free/reduced,group B,female,68,some college,61,none
+79,'1769',69,standard,group D,male,70,some high school,76,completed
+71,'7898',43,standard,group C,male,51,associate's degree,49,none
+88,'3576',27,free/reduced,group B,female,38,some high school,24,none
+82,'6062',60,free/reduced,group D,female,55,some high school,35,completed
+82,'7271',52,free/reduced,group C,male,61,high school,58,none
+79,'9342',63,standard,group C,female,73,high school,61,none
+99,'1225',74,standard,group B,female,76,high school,69,completed
+87,'0216',67,standard,group D,male,72,associate's degree,67,completed
+93,'5027',67,standard,group D,male,73,some college,79,none
+95,'9650',75,standard,group C,female,80,high school,72,none
+72,'3556',57,standard,group B,male,61,some college,62,none
+86,'1604',95,standard,group C,female,94,bachelor's degree,77,completed
+99,'0836',66,free/reduced,group D,male,74,high school,75,none
+95,'7584',76,standard,group E,male,74,associate's degree,87,none
+75,'2499',69,standard,group B,female,65,bachelor's degree,52,none
+87,'4499',52,standard,group E,male,57,some college,66,none
+94,'8349',80,standard,group C,female,78,some college,63,completed
+97,'5370',57,standard,group C,female,58,associate's degree,46,none
+97,'2068',70,standard,group C,female,71,some college,59,none
+80,'3736',70,standard,group B,female,72,bachelor's degree,61,none
+97,'5049',61,standard,group A,male,61,associate's degree,63,none
+73,'4076',69,free/reduced,group C,female,66,some college,42,completed
+83,'2710',61,free/reduced,group D,male,62,some college,59,none
+99,'6882',89,standard,group D,female,90,some college,80,none
+86,'4029',59,standard,group B,female,62,high school,58,none
+86,'9404',78,standard,group B,male,84,some high school,85,completed
+93,'2219',58,standard,group C,female,58,some college,52,none
+76,'4339',32,free/reduced,group D,female,34,some high school,27,none
+77,'5982',58,standard,group C,male,60,some college,59,none
+81,'9990',60,free/reduced,group A,male,58,bachelor's degree,49,completed
+70,'8879',53,standard,group C,male,58,high school,69,completed
+99,'9388',61,free/reduced,group C,male,66,bachelor's degree,61,none
+92,'6142',58,free/reduced,group A,female,64,some high school,44,none
+82,'5504',85,standard,group D,female,84,some high school,73,none
+92,'8713',71,standard,group E,male,77,some college,84,none
+95,'9131',70,free/reduced,group C,female,73,some college,45,completed
+93,'2880',72,standard,group D,male,74,some high school,74,none
+75,'5453',96,standard,group D,female,97,some college,82,completed
+81,'5344',73,standard,group D,female,70,bachelor's degree,59,none
+89,'5809',41,free/reduced,group E,male,43,associate's degree,46,none
+90,'1748',82,standard,group D,female,90,some high school,80,none
+87,'4598',100,free/reduced,group D,female,95,master's degree,85,completed
+81,'7552',77,standard,group A,female,83,some high school,71,none
+73,'5448',62,standard,group A,male,64,bachelor's degree,66,none
+89,'6299',83,standard,group B,female,86,associate's degree,80,none
+72,'3454',95,standard,group C,male,100,associate's degree,87,completed
+70,'0900',71,free/reduced,group C,male,81,master's degree,79,none
+74,'1373',45,free/reduced,group E,female,49,some high school,38,none
+80,'3653',43,free/reduced,group A,female,43,some high school,38,none
+89,'5668',75,standard,group E,female,76,some college,67,none
+88,'0821',70,standard,group E,female,73,bachelor's degree,64,none
+88,'6750',67,free/reduced,group C,female,78,associate's degree,57,none
+84,'7080',64,standard,group D,female,64,high school,62,none
+94,'4991',75,standard,group D,male,70,master's degree,73,none
+81,'1440',59,free/reduced,group E,male,67,some high school,73,completed
+86,'5166',77,standard,group D,female,68,some college,77,none
+98,'6650',67,standard,group E,male,67,some college,76,none
+89,'5299',56,standard,group C,male,54,associate's degree,57,completed
+81,'9528',77,standard,group C,female,74,some high school,65,completed
+88,'1222',41,free/reduced,group A,male,45,high school,48,none
+72,'4348',63,free/reduced,group B,female,67,high school,50,none
+99,'4427',95,standard,group C,female,89,associate's degree,85,none
+87,'8436',57,standard,group B,male,63,some high school,74,none
+70,'7504',54,standard,group D,male,59,some high school,60,none
+96,'4285',67,standard,group C,female,54,some high school,59,completed
+87,'6325',43,standard,group A,male,43,some college,53,none
+80,'7566',55,free/reduced,group A,female,65,some college,49,none
+72,'7563',100,standard,group D,female,99,high school,88,completed
+75,'1164',62,standard,group C,female,59,high school,54,none
+78,'7246',68,standard,group C,female,73,some high school,63,none
+93,'8614',63,standard,group B,male,65,associate's degree,65,completed
+83,'8539',77,standard,group B,female,80,associate's degree,82,none
+78,'2052',56,free/reduced,group D,female,57,high school,52,completed
+90,'3578',85,standard,group D,male,84,associate's degree,87,completed
+72,'4186',74,standard,group D,female,71,master's degree,70,completed
+90,'9656',78,standard,group E,male,83,some college,84,completed
+93,'5014',60,standard,group D,male,66,associate's degree,71,none
+82,'1086',67,standard,group B,male,67,some high school,63,completed
+87,'3880',79,free/reduced,group C,female,72,bachelor's degree,51,completed
+81,'5232',69,standard,group E,male,73,high school,84,none
+79,'9570',68,standard,group C,male,74,bachelor's degree,71,completed
+90,'6886',67,standard,group C,male,73,associate's degree,74,none
+94,'5904',62,standard,group D,male,59,some college,68,none
+97,'2385',54,free/reduced,group E,male,56,high school,57,completed
+93,'5036',93,free/reduced,group C,female,93,associate's degree,82,completed
+93,'6971',64,standard,group D,female,58,high school,57,completed
+94,'0731',67,free/reduced,group D,female,58,master's degree,47,completed
+70,'2024',80,standard,group A,female,85,some high school,59,completed
+73,'5968',34,free/reduced,group B,male,39,some college,41,none
+73,'6817',62,free/reduced,group C,female,67,some college,62,none
+99,'8555',86,standard,group C,male,83,bachelor's degree,86,none
+81,'4948',65,free/reduced,group C,male,71,some high school,69,none
+91,'2516',53,free/reduced,group A,male,59,some high school,65,none
+79,'6397',54,free/reduced,group C,male,63,some high school,68,none
+79,'6514',59,free/reduced,group C,male,66,associate's degree,64,none
+79,'9662',70,standard,group C,female,72,high school,61,none
+75,'2889',55,standard,group C,male,56,high school,61,none
+79,'3895',50,free/reduced,group A,female,59,some high school,47,none
+70,'8765',66,standard,group C,male,66,some high school,73,none
+90,'1633',53,free/reduced,group C,male,48,some college,50,completed
+94,'4754',64,standard,group D,male,68,associate's degree,75,none
+78,'8994',73,free/reduced,group D,male,66,associate's degree,75,none
+74,'9133',51,standard,group C,male,56,high school,70,none
+71,'9328',82,standard,group D,male,88,some high school,89,completed
+90,'6740',79,standard,group C,female,81,some college,67,completed
+95,'7698',80,standard,group D,female,81,high school,78,none
+81,'9642',69,free/reduced,group A,female,73,some high school,59,none
+86,'9319',76,standard,group B,female,83,associate's degree,73,none
+75,'4344',73,free/reduced,group A,male,82,some high school,79,none
+79,'1378',77,standard,group C,female,74,some high school,67,completed
+93,'9553',60,free/reduced,group D,male,66,some college,69,none
+91,'2831',80,standard,group C,male,81,high school,86,completed
+98,'0647',42,standard,group B,male,46,high school,47,none
+98,'8395',72,standard,group B,male,73,associate's degree,81,none
+91,'5175',85,free/reduced,group C,female,85,some college,64,completed
+84,'5122',97,standard,group E,female,92,some college,100,none
+81,'0154',74,free/reduced,group C,female,77,associate's degree,65,none
+99,'3275',49,free/reduced,group C,male,58,some college,65,none
+99,'0457',62,free/reduced,group C,female,61,associate's degree,53,none
+88,'4441',47,free/reduced,group C,male,56,bachelor's degree,37,none
+93,'8697',89,standard,group D,female,89,bachelor's degree,79,none
+98,'1854',48,free/reduced,group D,male,54,associate's degree,53,none
+71,'0946',100,standard,group E,female,100,bachelor's degree,100,none
+73,'7201',68,standard,group B,male,65,high school,72,completed
+70,'1878',55,free/reduced,group C,male,58,bachelor's degree,53,none
+91,'5625',45,free/reduced,group B,male,54,some college,54,none
+99,'6734',76,standard,group E,female,70,some college,71,none
+77,'6098',91,free/reduced,group C,female,90,some college,77,none
+92,'1644',62,standard,group A,male,58,bachelor's degree,75,completed
+92,'2302',91,standard,group C,female,87,some college,84,none
+98,'4990',38,free/reduced,group D,female,31,associate's degree,26,none
+82,'8331',65,free/reduced,group A,male,67,high school,72,completed
+78,'5602',85,free/reduced,group A,female,88,high school,77,completed
+80,'2955',76,standard,group C,male,74,some college,91,none
+85,'3047',90,standard,group C,female,85,associate's degree,83,completed
+86,'6595',74,standard,group C,female,69,high school,63,none
+73,'6698',84,standard,group C,female,86,associate's degree,68,completed
+98,'8307',61,standard,group D,female,67,some high school,59,none
+88,'0251',91,standard,group B,female,90,associate's degree,90,completed
+88,'1679',83,standard,group D,female,76,bachelor's degree,71,completed
+79,'8245',66,standard,group E,male,62,bachelor's degree,76,completed
+97,'2607',72,standard,group D,male,68,associate's degree,80,none
+70,'0308',70,standard,group D,female,64,master's degree,55,none
+98,'2315',67,standard,group E,male,71,associate's degree,76,none
+92,'8338',68,standard,group B,male,71,high school,73,completed
+96,'7660',56,free/reduced,group D,female,59,associate's degree,52,none
+85,'7740',61,free/reduced,group C,male,68,some college,68,none
+95,'2149',46,standard,group A,male,52,high school,59,none
+71,'1437',54,standard,group B,female,52,associate's degree,49,none
+84,'5341',71,standard,group C,male,74,high school,70,none
+91,'3406',56,free/reduced,group D,male,47,some college,61,none
+93,'2262',74,free/reduced,group C,female,75,associate's degree,60,none
+90,'6733',57,standard,group B,male,53,some high school,64,completed
+76,'2801',82,free/reduced,group A,male,82,associate's degree,79,completed
+87,'5461',76,free/reduced,group A,female,85,associate's degree,65,none
+87,'4527',70,standard,group C,female,64,associate's degree,64,none
+85,'6956',90,standard,group C,female,83,some college,83,none
+93,'0200',90,standard,group C,female,88,bachelor's degree,81,none
+74,'4962',68,standard,group B,female,64,high school,54,none
+83,'1036',66,standard,group D,male,64,high school,68,completed
+93,'5609',52,standard,group C,female,48,some college,54,none
+89,'4924',76,free/reduced,group D,female,78,some college,59,completed
+73,'2671',68,standard,group B,female,69,some high school,66,none
+78,'1775',72,standard,group E,male,71,some college,76,none
+81,'3228',82,standard,group D,female,79,master's degree,74,none
+83,'0840',92,standard,group B,female,87,associate's degree,94,completed
+90,'1384',54,free/reduced,group C,male,61,some college,63,none
+96,'1369',92,standard,group E,female,89,associate's degree,95,completed
+98,'3436',54,free/reduced,group D,female,59,master's degree,40,none
+99,'2420',80,standard,group B,female,82,some high school,82,none
+94,'9267',66,standard,group A,male,70,high school,68,none
+85,'4932',54,free/reduced,group B,male,59,bachelor's degree,55,none
+84,'5213',77,standard,group C,male,78,master's degree,79,none
+94,'6560',87,standard,group C,female,92,bachelor's degree,86,none
+70,'0444',73,standard,group D,male,71,some college,76,none
+87,'2561',43,standard,group A,male,50,some high school,64,none
+86,'1676',52,free/reduced,group D,male,49,some high school,62,none
+76,'3182',62,standard,group B,female,61,some high school,54,completed
+99,'6131',94,free/reduced,group B,female,97,master's degree,77,completed
+71,'9703',85,standard,group C,female,87,some high school,76,completed
+94,'5654',84,standard,group D,female,89,some college,74,none
+77,'0972',73,standard,group E,female,74,some college,66,completed
+70,'9045',78,standard,group D,female,78,some high school,66,completed
+86,'0047',79,free/reduced,group B,female,78,high school,67,completed
+84,'7322',52,standard,group D,male,49,some college,71,none
+80,'6194',84,standard,group C,female,86,associate's degree,91,none
+93,'3904',57,standard,group D,male,58,bachelor's degree,69,none
+74,'5270',50,free/reduced,group C,male,59,master's degree,54,none
+79,'7861',49,standard,group C,male,52,high school,53,completed
+92,'6192',59,standard,group E,male,60,some college,68,none
+88,'2218',60,free/reduced,group C,male,61,some high school,56,completed
+82,'1591',43,free/reduced,group C,female,53,high school,36,none
+80,'5918',47,free/reduced,group D,female,41,bachelor's degree,29,none
+79,'5731',70,standard,group C,female,74,associate's degree,62,none
+99,'2277',73,standard,group C,female,67,associate's degree,68,completed
+77,'8626',53,standard,group C,female,54,some high school,47,none
+86,'3656',58,standard,group E,male,61,associate's degree,62,completed
+97,'3804',94,standard,group E,female,88,associate's degree,79,completed
+90,'2290',68,standard,group B,male,69,high school,73,completed
+86,'1307',83,free/reduced,group C,female,83,bachelor's degree,66,completed
+77,'2368',58,standard,group C,male,60,associate's degree,51,completed
+87,'1109',62,standard,group D,female,66,high school,51,none
+77,'4643',71,standard,group E,male,66,bachelor's degree,85,completed
+92,'4588',86,standard,group A,male,92,associate's degree,97,completed
+74,'8007',68,standard,group C,male,69,high school,75,completed
+77,'7428',80,free/reduced,group D,male,82,associate's degree,79,completed
+80,'4211',79,standard,group C,female,77,associate's degree,81,none
+72,'7538',89,standard,group D,female,95,associate's degree,82,none
+95,'0737',66,standard,group D,female,63,master's degree,64,none
+76,'8984',80,free/reduced,group E,male,83,some high school,78,completed
+92,'4240',97,standard,group A,female,100,some high school,92,completed
+96,'4078',64,standard,group C,male,67,high school,72,completed
+99,'0713',64,free/reduced,group C,female,67,high school,62,none
+78,'3685',69,standard,group C,male,72,master's degree,79,none
+76,'9303',65,free/reduced,group C,male,76,some high school,79,none
+73,'1827',88,free/reduced,group B,male,90,bachelor's degree,87,completed
+73,'2102',50,standard,group B,female,48,associate's degree,40,none
+86,'1051',64,free/reduced,group D,male,62,some college,77,none
+70,'3535',40,standard,group E,male,45,associate's degree,53,none
+93,'9544',33,free/reduced,group C,female,39,some college,32,none
+85,'4192',79,standard,group C,female,72,associate's degree,55,completed
+78,'3686',66,free/reduced,group C,male,67,master's degree,61,none
+80,'3084',70,free/reduced,group B,female,70,associate's degree,53,none
+93,'4745',62,standard,group D,male,66,some high school,73,none
+94,'4601',79,standard,group D,female,75,some college,74,completed
+93,'8394',74,standard,group C,female,74,some college,63,none
+77,'5858',92,standard,group C,male,90,bachelor's degree,96,completed
+82,'3288',80,free/reduced,group D,female,80,some college,63,completed
+88,'3316',46,free/reduced,group B,male,51,bachelor's degree,48,none
+73,'7108',45,standard,group B,male,43,associate's degree,48,none
+82,'4303',100,free/reduced,group E,female,100,bachelor's degree,92,completed
+79,'1836',78,free/reduced,group D,female,71,master's degree,61,completed
+76,'5052',47,free/reduced,group B,male,48,high school,63,none
+83,'7433',67,free/reduced,group D,male,68,bachelor's degree,68,none
+89,'8902',70,standard,group B,male,75,some college,71,completed
+74,'6244',92,standard,group A,male,96,bachelor's degree,91,none
+95,'2129',56,standard,group C,female,62,some college,53,none
+93,'1178',64,free/reduced,group C,female,66,high school,50,completed
+76,'0844',71,standard,group E,female,81,high school,74,none
+77,'6282',53,free/reduced,group A,male,55,associate's degree,40,completed
+99,'8537',52,standard,group A,male,51,some college,61,completed
+81,'4248',89,standard,group B,female,91,high school,81,none
+87,'2585',58,free/reduced,group B,female,56,some college,48,completed
+83,'0875',68,standard,group D,female,61,master's degree,53,none
+96,'9165',96,standard,group D,female,97,some high school,81,none
+74,'9456',80,standard,group E,female,79,some high school,77,none
+94,'0772',78,free/reduced,group D,female,73,bachelor's degree,63,none
+93,'0780',80,standard,group D,female,75,associate's degree,73,completed
+72,'1696',77,standard,group D,female,77,some college,69,none
+93,'6262',76,standard,group C,female,76,associate's degree,65,none
+81,'5870',73,standard,group A,female,73,high school,55,none
+96,'5611',62,free/reduced,group C,female,63,bachelor's degree,44,none
+79,'0921',65,standard,group C,female,64,some college,54,none
+94,'1787',65,standard,group A,female,66,some high school,48,none
+70,'5529',54,free/reduced,group C,male,57,some college,58,none
+90,'5971',50,standard,group A,male,62,some high school,71,none
+73,'9391',64,standard,group E,male,68,bachelor's degree,68,none
+93,'7896',73,standard,group E,female,76,high school,74,none
+73,'1619',99,standard,group C,female,100,bachelor's degree,92,completed
+80,'5685',72,standard,group C,female,79,bachelor's degree,56,completed
+92,'0342',15,free/reduced,group B,male,24,high school,30,none
+94,'5730',48,standard,group A,male,54,some high school,53,none
+80,'9663',73,standard,group D,female,77,high school,69,none
+87,'9476',81,standard,group D,female,82,some high school,65,none
+71,'7493',63,standard,group D,female,60,master's degree,54,none
+71,'6652',30,standard,group C,female,29,high school,29,none
+79,'4679',80,standard,group E,female,78,some college,76,none
+93,'5823',51,free/reduced,group D,male,57,high school,60,none
+83,'9858',90,free/reduced,group D,male,89,master's degree,84,completed
+89,'0394',62,standard,group C,male,72,some high school,75,none
+79,'7684',82,standard,group C,female,84,associate's degree,85,none
+94,'4426',54,free/reduced,group C,female,58,master's degree,40,none
+99,'4954',62,standard,group E,female,64,some college,61,none
+92,'7594',65,standard,group B,female,63,associate's degree,58,none
+84,'4890',63,free/reduced,group D,male,60,some college,69,completed
+70,'8156',66,standard,group C,female,59,some college,58,none
+86,'6202',91,standard,group C,male,90,bachelor's degree,94,completed
+93,'1804',74,standard,group C,female,77,associate's degree,65,none
+78,'6446',93,standard,group A,female,93,associate's degree,82,none
+75,'1907',72,standard,group C,female,68,high school,60,none
+88,'5222',38,standard,group E,female,45,bachelor's degree,37,none
+93,'9658',83,standard,group D,male,78,bachelor's degree,88,none
+70,'9298',84,standard,group D,male,81,master's degree,95,none
+76,'1550',68,free/reduced,group C,male,73,associate's degree,65,completed
+89,'8410',54,free/reduced,group C,female,61,high school,35,none
+76,'0745',56,free/reduced,group B,male,63,bachelor's degree,62,none
+70,'7825',52,free/reduced,group C,male,51,high school,58,completed
+90,'8025',86,standard,group A,male,96,some college,100,completed
+80,'3557',62,free/reduced,group E,female,58,bachelor's degree,61,none
+78,'5100',99,standard,group D,male,97,some college,100,completed
+92,'2483',63,free/reduced,group B,male,70,associate's degree,69,completed
+96,'0794',46,standard,group D,male,48,associate's degree,61,none
+77,'2494',46,free/reduced,group D,male,57,some college,49,none
+78,'7316',55,standard,group C,female,51,some high school,44,completed
+96,'8121',70,standard,group D,male,64,some college,67,none
+76,'8284',65,standard,group B,male,60,high school,79,none
+70,'3035',81,standard,group B,female,74,bachelor's degree,66,completed
+86,'4610',85,standard,group C,female,88,high school,75,none
+72,'0009',80,standard,group D,male,84,some high school,84,none
+97,'9061',64,standard,group A,male,74,high school,71,none
+99,'5824',81,free/reduced,group B,female,80,high school,67,completed
+89,'7529',88,standard,group D,female,92,some high school,80,completed
+91,'9044',74,standard,group E,male,76,some college,86,none
+99,'6515',73,standard,group D,female,74,associate's degree,76,none
+96,'4037',51,standard,group D,male,52,high school,41,none
+85,'6804',90,free/reduced,group D,female,88,associate's degree,74,completed
+84,'4530',79,free/reduced,group B,female,81,some high school,72,none
+78,'4157',80,standard,group E,female,79,high school,74,completed
+75,'3688',60,standard,group B,male,65,high school,70,none
+70,'2566',81,standard,group B,female,81,bachelor's degree,65,completed
+72,'0854',65,standard,group D,female,70,associate's degree,59,none
+80,'6630',68,free/reduced,group E,female,62,high school,64,none
+75,'0369',55,standard,group B,female,53,high school,50,none
+99,'7806',81,standard,group D,female,79,some college,69,completed
+98,'8199',53,free/reduced,group C,male,56,some high school,51,completed
+96,'1441',76,standard,group A,female,80,high school,68,completed
+82,'4124',98,standard,group D,female,86,some college,85,completed
+91,'3502',74,standard,group A,female,70,associate's degree,65,completed
+78,'1017',79,standard,group B,female,79,some high school,73,none
+89,'3373',67,standard,group B,female,67,some college,62,none
+73,'9502',64,free/reduced,group C,male,67,associate's degree,77,none
+94,'6441',61,standard,group D,male,66,some high school,69,none
+89,'2054',58,free/reduced,group D,female,60,associate's degree,43,none
+99,'7501',85,standard,group D,male,87,associate's degree,90,none
+75,'7358',73,free/reduced,group C,male,77,some college,74,none
+97,'7344',63,standard,group C,male,66,some high school,73,none
+70,'8693',69,free/reduced,group D,female,71,some college,55,none
+76,'3814',67,standard,group C,female,69,high school,65,none
+97,'7960',63,standard,group D,male,63,associate's degree,80,none
+70,'9479',60,free/reduced,group C,female,60,some high school,50,completed
+98,'8687',71,free/reduced,group C,female,73,some college,63,completed
+76,'7868',87,free/reduced,group B,female,85,bachelor's degree,77,none
+89,'0761',61,standard,group C,male,74,some college,73,none
+93,'4262',77,standard,group D,male,72,associate's degree,81,completed
+82,'3567',68,free/reduced,group C,female,76,high school,66,none
+74,'9252',50,free/reduced,group D,male,57,associate's degree,52,none
+85,'8185',76,standard,group C,female,78,some college,69,none
+99,'5120',84,standard,group C,female,84,associate's degree,65,completed
+96,'7284',78,standard,group D,female,77,high school,69,completed
+82,'4209',66,standard,group B,female,64,some college,50,completed
+77,'3002',76,standard,group E,female,78,some college,73,completed
+90,'3462',76,standard,group C,female,82,some high school,70,completed
+70,'0636',78,free/reduced,group D,male,75,associate's degree,81,none
+88,'6001',60,free/reduced,group D,male,61,some college,63,none
+99,'8041',74,standard,group D,female,72,high school,67,none
+83,'1630',60,standard,group B,male,68,high school,60,none
+85,'2362',54,standard,group B,male,55,high school,62,none
+93,'8222',44,free/reduced,group C,female,40,some high school,29,completed
+94,'5082',68,standard,group B,male,66,some college,62,completed
+98,'7037',100,standard,group E,female,99,master's degree,94,completed
+94,'9592',68,standard,group E,male,75,some college,85,completed
+80,'4635',73,free/reduced,group D,male,78,associate's degree,77,none
+76,'4085',44,free/reduced,group A,male,58,high school,53,none
+88,'3543',83,free/reduced,group E,male,90,some college,93,none
+94,'9294',53,standard,group C,female,53,associate's degree,49,none
+90,'3321',78,free/reduced,group E,female,76,associate's degree,73,none
+96,'6409',81,free/reduced,group C,female,74,bachelor's degree,66,completed
+81,'8231',73,standard,group D,female,77,associate's degree,77,none
+73,'9429',56,standard,group C,female,63,some high school,49,none
+88,'2509',86,free/reduced,group D,female,89,some college,79,none
+98,'3952',90,standard,group C,female,82,associate's degree,75,completed
+91,'0454',70,standard,group A,female,72,bachelor's degree,59,none
+96,'3712',79,standard,group D,female,78,associate's degree,57,completed
+77,'1180',59,free/reduced,group C,male,66,high school,66,none
+95,'5842',82,standard,group E,female,81,bachelor's degree,79,completed
+88,'4941',72,standard,group B,female,67,some high school,57,none
+76,'9369',87,standard,group A,male,84,bachelor's degree,87,completed
+96,'4219',67,standard,group D,female,64,some college,63,none
+82,'8190',64,free/reduced,group B,female,63,some high school,59,completed
+71,'0514',65,free/reduced,group A,male,72,bachelor's degree,62,none
+83,'3307',36,standard,group D,male,34,high school,46,none
+75,'4385',52,standard,group C,male,59,some college,66,none
+82,'5599',79,standard,group D,male,87,high school,89,none
+81,'9517',58,free/reduced,group D,female,61,associate's degree,42,completed
+96,'2180',90,standard,group C,male,84,some college,93,completed
+75,'3134',85,standard,group E,female,85,some high school,80,completed
+79,'8764',99,standard,group D,female,100,some college,98,none
+91,'5285',84,standard,group D,male,81,master's degree,81,none
+88,'2571',74,standard,group B,female,70,some high school,60,completed
+82,'0709',87,free/reduced,group B,female,94,associate's degree,76,completed
+74,'4121',72,standard,group C,male,78,associate's degree,73,completed
+91,'9365',99,standard,group C,female,96,associate's degree,96,completed
+71,'6333',74,standard,group C,female,76,high school,76,none
+95,'4925',80,free/reduced,group E,male,73,associate's degree,91,completed
+78,'2882',70,free/reduced,group C,female,72,some college,62,none
+97,'4690',59,free/reduced,group D,male,59,some high school,55,completed
+77,'1103',88,free/reduced,group B,female,90,some high school,74,completed
+93,'2088',42,standard,group C,male,48,high school,50,none
+90,'5018',41,standard,group B,male,43,some college,47,none
+97,'6033',71,standard,group E,male,74,some college,81,completed
+89,'8004',77,standard,group E,female,75,associate's degree,65,completed
+98,'7473',57,standard,group E,male,51,some high school,68,completed
+77,'3642',84,free/reduced,group D,female,92,high school,73,none
+83,'3896',37,standard,group C,male,39,some college,53,none
+75,'8516',80,free/reduced,group B,female,77,associate's degree,68,completed
+73,'1502',43,free/reduced,group A,male,46,some high school,55,none
+86,'6434',94,standard,group C,female,89,some college,87,completed
+82,'9877',44,standard,group D,male,47,some high school,55,none
+91,'0989',57,free/reduced,group E,female,58,some college,53,none
+91,'8491',59,standard,group C,male,57,master's degree,67,none
+92,'5921',84,standard,group C,male,79,associate's degree,92,none
+74,'1334',73,free/reduced,group B,female,66,some college,53,completed
+78,'5684',73,standard,group D,male,71,associate's degree,81,none
+81,'2137',55,free/reduced,group C,male,60,high school,61,none
+83,'9428',72,standard,group D,male,73,bachelor's degree,80,none
+76,'6607',56,free/reduced,group A,female,57,associate's degree,37,none
+73,'1259',82,standard,group C,female,84,high school,81,none
+98,'3018',72,standard,group C,female,73,associate's degree,59,completed
+83,'2005',47,free/reduced,group B,male,55,some college,55,none
+84,'0215',74,standard,group D,male,79,associate's degree,72,none
+79,'9603',71,standard,group D,male,75,high school,69,none
+89,'9602',68,standard,group C,male,64,some college,69,none
+95,'9998',59,free/reduced,group C,female,60,bachelor's degree,50,none
+70,'3742',86,standard,group B,male,84,some college,87,completed
+80,'9073',68,standard,group D,male,69,some high school,71,completed
+73,'3739',65,standard,group E,male,72,some college,68,none
+70,'0519',75,free/reduced,group C,male,77,master's degree,79,completed
+81,'1044',85,standard,group C,female,90,some high school,77,completed
+87,'2642',53,free/reduced,group C,male,55,associate's degree,58,none
+71,'2860',92,standard,group E,female,95,associate's degree,84,none
+80,'8921',52,standard,group D,male,58,some college,55,none
+82,'7282',72,free/reduced,group E,male,68,bachelor's degree,70,completed
+82,'8113',65,free/reduced,group D,female,59,some college,52,completed
+98,'2552',77,standard,group B,male,77,some college,69,completed
+84,'2817',64,free/reduced,group C,female,72,high school,53,none
+90,'1920',54,standard,group D,female,58,some high school,48,none
+81,'0967',86,standard,group D,male,81,some high school,78,completed
+87,'4992',63,standard,group B,female,62,high school,62,none
+80,'9683',59,standard,group D,male,63,some college,60,none
+76,'5673',72,standard,group B,female,72,high school,74,none
+87,'6314',77,standard,group C,female,75,high school,58,completed
+79,'0769',60,standard,group B,male,62,high school,76,completed
+70,'5457',75,standard,group D,female,71,some high school,68,none
+79,'7525',57,free/reduced,group A,male,60,some college,58,none
+98,'9076',49,standard,group B,male,48,high school,52,none
+73,'3858',74,standard,group D,male,73,bachelor's degree,75,none
+96,'9138',72,free/reduced,group B,female,67,some high school,52,completed
+84,'8096',79,free/reduced,group C,female,78,bachelor's degree,62,none
+89,'1659',60,standard,group B,male,65,some college,66,none
+88,'9370',55,free/reduced,group B,female,58,some high school,49,none
+76,'9124',70,standard,group B,female,72,high school,66,none
+77,'7317',43,free/reduced,group C,female,44,some college,35,none
+85,'5480',82,standard,group A,female,79,some college,72,completed
+83,'3772',82,standard,group E,male,85,associate's degree,94,completed
+71,'4987',57,free/reduced,group D,female,56,associate's degree,46,none
+74,'5560',84,standard,group B,female,90,master's degree,77,none
+90,'8139',82,free/reduced,group B,female,85,high school,76,completed
+75,'5627',62,standard,group C,female,59,associate's degree,52,completed
+78,'9315',79,standard,group C,male,81,bachelor's degree,91,completed
+91,'2533',44,standard,group B,female,51,some high school,32,completed
+90,'5567',77,free/reduced,group E,female,79,some high school,72,none
+95,'3658',32,standard,group B,female,38,some college,19,none
+86,'3767',61,free/reduced,group C,male,65,associate's degree,68,none
+84,'2578',61,free/reduced,group C,female,65,master's degree,52,none
+81,'9617',60,standard,group B,female,62,high school,48,none
+89,'5503',70,free/reduced,group D,female,66,some college,60,none
+76,'3127',69,free/reduced,group D,male,74,high school,66,none
+75,'2951',77,standard,group E,male,84,some high school,89,completed
+76,'1377',51,standard,group B,female,52,high school,42,none
+90,'7439',73,free/reduced,group E,female,68,associate's degree,57,completed
+77,'8362',70,standard,group D,male,70,high school,70,none
+84,'0152',81,free/reduced,group E,female,84,associate's degree,70,none
+99,'7508',54,standard,group E,male,60,some college,69,none
+93,'8543',57,standard,group C,female,55,associate's degree,52,none
+86,'1579',68,standard,group C,male,73,some high school,67,completed
+93,'2379',73,standard,group C,male,80,some high school,76,completed
+94,'1371',95,standard,group E,female,94,associate's degree,87,none
+72,'5633',87,standard,group B,female,85,some college,82,none
+89,'8866',78,standard,group C,female,76,some college,73,none
+99,'1169',74,free/reduced,group A,male,81,some college,75,none
+83,'8169',75,free/reduced,group D,female,74,some college,64,none
+91,'2106',40,free/reduced,group E,female,45,high school,41,none
+76,'4300',69,standard,group C,male,75,high school,90,none
+79,'2382',51,standard,group B,male,54,bachelor's degree,59,none
+86,'6044',36,standard,group A,male,31,some high school,51,none
+71,'2241',49,free/reduced,group A,male,47,high school,45,none
+85,'2685',67,standard,group C,female,64,master's degree,54,completed
+76,'6125',76,standard,group E,male,84,some high school,87,completed
+91,'1547',83,standard,group C,female,80,high school,72,none
+93,'6814',87,standard,group B,male,86,some high school,94,completed
+80,'0074',64,standard,group A,female,59,bachelor's degree,45,none
+95,'7803',76,free/reduced,group D,male,70,bachelor's degree,61,completed
+77,'0150',68,free/reduced,group B,female,72,high school,60,none
+71,'8825',88,standard,group C,female,91,some high school,77,none
+74,'2205',92,standard,group A,female,90,some high school,85,completed
+81,'1691',93,free/reduced,group D,female,90,bachelor's degree,78,none
+89,'9514',51,free/reduced,group E,male,52,some college,49,completed
+80,'7459',82,free/reduced,group B,female,87,high school,71,none
+88,'9143',52,free/reduced,group C,female,58,some high school,48,none
+82,'9788',58,standard,group C,male,67,high school,62,none
+90,'9142',70,free/reduced,group C,female,68,associate's degree,56,completed
+75,'2391',76,standard,group C,female,69,some high school,65,none
+76,'3030',81,free/reduced,group D,female,86,some high school,69,completed
+95,'5838',53,standard,group B,male,54,some high school,68,none
+70,'6382',57,free/reduced,group A,female,60,some college,61,none
+94,'0485',89,free/reduced,group C,female,86,bachelor's degree,74,completed
+77,'6520',58,standard,group A,male,60,bachelor's degree,64,none
+83,'4216',89,standard,group B,female,82,high school,77,completed
+97,'0011',45,standard,group B,male,50,some college,58,none
+74,'9782',74,standard,group C,female,64,high school,60,completed
+80,'4706',57,standard,group E,male,64,high school,73,none
+89,'5238',79,standard,group A,female,82,high school,75,completed
+77,'3505',53,free/reduced,group B,male,57,associate's degree,58,completed
+78,'6040',73,standard,group C,female,77,associate's degree,66,none
+72,'6293',46,free/reduced,group D,female,52,high school,39,none
+93,'2680',51,standard,group C,male,58,some high school,64,none
+75,'3386',36,free/reduced,group B,female,44,high school,23,completed
+83,'8505',76,free/reduced,group B,male,77,some college,74,completed
+70,'1517',64,free/reduced,group D,female,65,some high school,40,completed
+87,'6324',84,standard,group E,male,85,master's degree,90,none
+76,'0568',85,standard,group C,male,85,master's degree,91,completed
+96,'4945',50,standard,group D,male,54,high school,64,none
+70,'3146',68,standard,group C,female,72,high school,59,none
+70,'2956',69,standard,group D,male,75,associate's degree,80,none
+80,'6072',67,standard,group C,male,67,master's degree,71,none
+94,'3210',63,standard,group A,female,68,high school,61,none
+75,'5214',93,standard,group E,female,85,some college,87,none
+86,'3942',61,standard,group E,male,67,some high school,82,none
+75,'2034',55,standard,group C,male,64,some high school,62,none
+86,'0740',96,standard,group B,female,97,bachelor's degree,97,none
+71,'3780',65,free/reduced,group B,male,68,some college,75,none
+73,'0919',81,standard,group C,female,79,bachelor's degree,65,none
+82,'3951',46,standard,group B,male,49,high school,52,completed
+90,'3179',72,free/reduced,group C,male,73,associate's degree,87,none
+70,'8587',53,standard,group C,female,62,associate's degree,53,none
+92,'9897',87,free/reduced,group E,female,86,master's degree,81,none
+93,'5256',38,free/reduced,group D,male,42,bachelor's degree,39,completed
+95,'4067',80,standard,group C,female,71,some college,71,completed
+86,'0957',91,standard,group C,male,93,associate's degree,97,none
+97,'7168',88,standard,group D,male,82,some college,82,completed
+71,'5626',52,free/reduced,group C,male,53,high school,59,none
+95,'7634',41,standard,group B,male,42,associate's degree,61,none
+71,'8628',72,free/reduced,group E,male,74,associate's degree,78,completed
+93,'6847',51,free/reduced,group C,male,51,associate's degree,49,none
+71,'0682',47,standard,group B,male,58,high school,59,none
+78,'9813',76,standard,group C,female,72,some college,70,completed
+82,'0835',78,standard,group B,male,84,associate's degree,82,completed
+92,'2935',82,free/reduced,group E,male,90,associate's degree,90,none
+82,'5131',61,free/reduced,group C,female,62,bachelor's degree,43,none
+76,'5240',66,free/reduced,group C,male,64,some college,80,none
+82,'0608',84,standard,group D,male,82,some college,81,none
+86,'4993',54,standard,group C,male,61,some high school,57,none
+77,'5414',80,standard,group D,female,72,some high school,59,none
+85,'2527',74,standard,group D,female,76,associate's degree,64,none
+85,'0593',66,standard,group C,male,64,bachelor's degree,63,completed
+78,'1055',70,standard,group E,female,70,bachelor's degree,71,completed
+88,'9090',71,free/reduced,group B,female,73,high school,64,none
+72,'6839',44,free/reduced,group D,male,46,bachelor's degree,55,none
+89,'8150',54,standard,group E,female,51,associate's degree,51,none
+71,'4680',80,standard,group C,female,76,associate's degree,62,completed
+83,'4151',95,standard,group E,female,100,associate's degree,93,completed
+74,'0376',59,free/reduced,group C,male,72,high school,54,none
+78,'6052',74,free/reduced,group D,female,65,some college,69,none
+96,'3330',48,free/reduced,group D,male,51,high school,44,none
+70,'5734',91,standard,group E,female,85,some college,86,completed
+87,'6512',85,standard,group E,female,92,associate's degree,85,none
+71,'9421',73,free/reduced,group A,female,67,master's degree,50,none
+71,'9269',75,standard,group D,male,74,some high school,88,completed
+80,'0805',69,standard,group E,female,62,associate's degree,59,none
+86,'3085',38,free/reduced,group E,female,34,some high school,32,none
+76,'7904',27,free/reduced,group B,male,29,high school,36,none
+98,'5346',79,free/reduced,group B,female,78,some high school,63,completed
+82,'6078',63,standard,group D,male,54,associate's degree,67,completed
+86,'6345',82,standard,group D,female,78,some high school,65,completed
+75,'5518',89,standard,group D,male,84,master's degree,85,none
+87,'3530',74,standard,group C,female,78,master's degree,73,none
+76,'1617',41,free/reduced,group A,female,48,high school,34,completed
+90,'7767',100,free/reduced,group D,female,100,bachelor's degree,93,completed
+70,'1823',84,free/reduced,group D,female,84,some high school,67,none
+89,'3395',77,standard,group D,male,77,some college,88,none
+75,'4087',51,standard,group B,male,48,high school,57,none
+79,'0100',91,standard,group D,female,84,some college,79,completed
+78,'2028',72,free/reduced,group C,female,75,bachelor's degree,67,none
+94,'5843',70,standard,group E,male,64,bachelor's degree,70,completed
+79,'7540',48,free/reduced,group D,male,42,bachelor's degree,50,none
+78,'4734',82,standard,group A,female,84,some college,69,none
+72,'2453',66,standard,group C,female,61,bachelor's degree,52,completed
+85,'6113',66,free/reduced,group C,female,62,bachelor's degree,47,completed
+87,'8057',55,free/reduced,group B,female,61,associate's degree,46,none
+97,'4794',66,standard,group E,female,70,some college,68,none
+70,'9554',100,standard,group E,male,100,bachelor's degree,100,completed
+75,'6767',52,standard,group C,female,61,high school,44,none
+72,'4563',80,standard,group C,female,77,associate's degree,57,completed
+81,'5524',91,standard,group B,male,96,some college,91,completed
+95,'6861',67,free/reduced,group D,male,70,high school,69,none
+99,'3562',46,free/reduced,group C,female,53,high school,35,none
+97,'5693',66,standard,group D,male,66,high school,72,none
+79,'7160',65,free/reduced,group B,female,65,associate's degree,54,none
+82,'0390',69,free/reduced,group D,male,70,high school,74,none
+72,'1157',60,standard,group E,male,64,some high school,74,completed
+90,'4104',52,free/reduced,group E,male,56,associate's degree,64,none
+74,'7279',71,free/reduced,group D,female,61,high school,65,completed
+87,'2583',44,free/reduced,group E,male,43,associate's degree,46,completed
+85,'7373',51,free/reduced,group C,female,56,some high school,48,none
+89,'2564',70,free/reduced,group C,male,74,some college,67,completed
+70,'1724',62,free/reduced,group D,male,57,some college,62,none
+74,'9201',73,free/reduced,group D,male,71,associate's degree,61,completed
+72,'6870',74,free/reduced,group C,male,75,bachelor's degree,70,completed
+83,'8995',90,standard,group C,male,87,associate's degree,98,completed
+97,'6587',58,free/reduced,group D,male,63,some college,70,none
+74,'9501',53,standard,group A,male,57,associate's degree,67,none
+91,'5679',57,free/reduced,group E,female,58,high school,57,none
+79,'9585',85,standard,group D,male,81,some college,85,completed
+78,'4207',69,standard,group D,male,68,some high school,77,completed
+86,'4337',72,free/reduced,group C,male,66,master's degree,72,completed
+73,'2792',96,standard,group D,female,91,master's degree,78,none
+77,'1088',64,standard,group C,male,66,high school,81,none
+80,'8201',61,free/reduced,group A,male,62,some high school,61,completed
+71,'3476',61,standard,group B,female,68,high school,58,none
+86,'5205',58,standard,group C,female,61,associate's degree,54,none
+99,'0432',80,standard,group B,male,82,high school,82,none
+79,'7546',60,free/reduced,group D,female,58,some college,49,none
+70,'1786',52,free/reduced,group B,male,50,some high school,49,completed
+78,'8285',73,free/reduced,group E,female,75,high school,57,completed
+75,'2981',71,standard,group E,male,73,high school,94,none
+84,'4222',83,standard,group D,female,77,some college,75,completed
+94,'0714',72,free/reduced,group E,female,74,some high school,74,none
+99,'0583',54,standard,group C,male,52,high school,58,completed
+71,'2075',69,standard,group C,female,69,some college,62,none
+91,'4054',62,standard,group E,male,57,associate's degree,72,none
+90,'4674',81,standard,group C,male,87,some college,84,none
+82,'3977',100,standard,group D,female,100,master's degree,92,none
+92,'6367',59,standard,group D,female,63,high school,45,none
+81,'7545',71,standard,group C,male,81,high school,75,none
+95,'9174',64,standard,group A,female,58,some college,56,none
+93,'7722',53,free/reduced,group D,female,54,some high school,48,none
+95,'3933',100,standard,group E,female,100,associate's degree,100,none
+88,'8477',75,free/reduced,group C,female,76,some high school,65,completed
+70,'0135',58,standard,group D,male,57,some college,72,none
+83,'6550',72,standard,group D,female,70,some college,62,none
+90,'4707',64,standard,group A,male,68,some high school,66,completed
+79,'5136',60,standard,group C,male,63,some college,63,none
+95,'7974',67,standard,group E,female,76,associate's degree,68,none
+87,'3721',80,standard,group B,female,84,bachelor's degree,75,none
+98,'2915',100,standard,group D,female,100,bachelor's degree,89,none
+90,'3455',69,standard,group C,male,72,some high school,78,completed
+78,'5464',60,free/reduced,group A,female,50,high school,53,completed
+72,'7714',61,free/reduced,group D,female,65,some college,49,none
+78,'0763',67,standard,group A,female,63,some college,54,none
+93,'2156',77,standard,group C,female,82,some college,64,completed
+92,'0758',60,free/reduced,group B,male,62,some college,60,completed
+87,'6319',58,standard,group C,male,65,associate's degree,62,none
+93,'3109',48,standard,group D,male,41,high school,55,completed
+94,'2919',94,standard,group C,female,95,associate's degree,91,none
+71,'6417',23,free/reduced,group B,female,24,high school,8,none
+88,'6647',78,standard,group D,male,78,some high school,81,none
+74,'7449',86,standard,group B,male,85,some high school,79,completed
+72,'6248',91,standard,group A,female,87,some college,78,completed
+96,'6910',82,standard,group C,female,75,some high school,74,none
+82,'2446',54,standard,group A,male,51,high school,57,none
+75,'8649',51,standard,group C,female,59,associate's degree,40,none
+82,'5973',76,standard,group E,male,75,some high school,81,completed
+92,'9454',45,free/reduced,group A,female,45,some high school,44,none
+91,'2601',83,free/reduced,group D,female,86,some college,67,completed
+74,'5881',75,free/reduced,group E,male,81,high school,86,completed
+88,'0859',78,standard,group B,female,82,some high school,65,completed
+98,'0771',76,free/reduced,group D,female,76,associate's degree,55,none
+70,'6604',74,free/reduced,group D,female,72,bachelor's degree,62,none
+83,'4445',62,standard,group A,male,63,high school,63,none
+70,'8533',95,standard,group E,female,99,master's degree,88,completed
+96,'3840',55,free/reduced,group C,male,55,high school,62,none
+70,'1925',65,free/reduced,group C,female,71,high school,59,completed
+74,'4879',77,standard,group D,female,78,some college,68,completed
+98,'4697',86,free/reduced,group D,female,86,some college,77,none
