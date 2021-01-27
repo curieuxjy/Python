@@ -4,6 +4,14 @@
 
 ---
 
+Why LinearRegression class doesn't use closed-form solution:
+
+* <https://stats.stackexchange.com/questions/343069/why-not-use-the-normal-equations-to-find-simple-least-squares-coefficients>
+
+How SVD is used to compute a solution:
+
+* <https://towardsdatascience.com/understanding-linear-regression-using-the-singular-value-decomposition-1f37fb10dd33>
+
 Please watch the lecture videos in the directory
 
 ```
