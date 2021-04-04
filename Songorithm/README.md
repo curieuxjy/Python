@@ -15,8 +15,8 @@
 |------|----|-------|
 |763|Partition Labels|✔️|
 |338|Counting Bits|✔️|
-|406|Queue Reconstruction by Height||
-|46|Permutations||
+|406|Queue Reconstruction by Height|✔️|
+|46|Permutations|✔️|
 |94|Binary Tree Inorder Traversal ||
 |22|Generate Parentheses||
 |78|Subsets||
@@ -35,8 +35,8 @@
 |199|Binary Tree Right Side View ||
 |64|Minimum Path Sum ||
 |⟹|20 problems||
-|62|Unique Paths||
-|96|Unique Binary Search Trees||
+|62|Unique Paths|✔️|
+|96|Unique Binary Search Trees|✔️|
 |11|Container With Most Water ||
 |394|Decode String ||
 |208|Implement Trie (Prefix Tree) ||
@@ -64,7 +64,7 @@
 |198|House Robber ||
 |139|Word Break ||
 |138|Copy List with Random Pointer||
-|56|Merge Intervals||
+|56|Merge Intervals|✔️|
 |142|Linked List Cycle II||
 |221|Maximal Square ||
 |⟹|50 problems||
